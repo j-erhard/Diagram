@@ -43,4 +43,4 @@ Télécharger le projet Diagram, puis compiler le programme java AnimatedDiagBar
   
 ## Condition préalable
 Pour faire fonctionner les programmes vous avez besoin d'installer java:
-<ul><li><a href="https://www.java.com/fr/download/">Java<a><li><ul>
+<ul><li><a href="https://www.java.com/fr/download/">Java</a></li></ul>
