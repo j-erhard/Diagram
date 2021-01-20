@@ -21,9 +21,11 @@
 ## À propos du projet
 <p>Programmes qui génèrent des diagrammes en barres animés à la Flourish. Les graphiques ont été réalisés à l’aide de la bibliothèque StdDraw. Ce projet a été réalisé par Julien ERHARD pour le défi S1 en 2020 en DUT informatique de Belfort</p>
 Ce projet contient :
+
 ```
 DiagBar.java | Bar.java | AnimatedDiagBar.java | PreprocessData.java |
 ```
+
 <br />
 <p>Voici un exemple de diagramme:</p>
 <p align="center">
