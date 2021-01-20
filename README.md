@@ -34,4 +34,4 @@ Télécharger le projet Diagram, puis compiler le programme java AnimatedDiagBar
   ```
   java AnimatedDiagBar exemple.txt 13 nosort
   ```
-<p>Pour comprendre l'utilité de chaques programmes et pour pouvoir créer des diagrammes animés veuillez lire la documentation:<a href="README.txt">README.txt</a>
+<p>Pour comprendre l'utilité de chaques programmes et pour pouvoir créer des diagrammes animés veuillez lire la documentation: <a href="README.txt">README.txt</a>
