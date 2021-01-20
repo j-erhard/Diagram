@@ -1,7 +1,7 @@
 <p align="center">
   <h3 align="center">Diagrammes animés</h3>
 
-  <p align="center">Programmes qui génèrent des diagrammes en barres animés à la Flourish. Les graphiques ont été réalisé à l’aide de la bibliothèque StdDraw.
+  <p align="center">Programmes qui génèrent des diagrammes en barres animés à la Flourish. Les graphiques ont été réalisés à l’aide de la bibliothèque StdDraw.
     <br /><br />
     <a href="#installation"><b>INSTALLATION INSTRUCTIONS</b></a>
   </p>
@@ -19,7 +19,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## À propos du projet
-<p>Programme qui génère des diagrammes en barres animés à la Flourish. Les graphiques ont été réalisé à l’aide de la bibliothèque StdDraw.</p>
+<p>Programmes qui génèrent des diagrammes en barres animés à la Flourish. Les graphiques ont été réalisés à l’aide de la bibliothèque StdDraw. Ce projet a été réalisé par Julien ERHARD pour le défi S1 en 2020 en DUT informatique de Belfort</p>
+Ce projet contient :
+```
+DiagBar.java | Bar.java | AnimatedDiagBar.java | PreprocessData.java |
+```
+<br />
 <p>Voici un exemple de diagramme:</p>
 <p align="center">
   <img src="diagramme.png" width="100%" alt="accessibility text">
