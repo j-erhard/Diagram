@@ -1,7 +1,7 @@
 <p align="center">
   <h3 align="center">Diagrammes animés</h3>
 
-  <p align="center">Programme qui génère des diagrammes en barres animés à la Flourish. Les graphiques ont été réalisé à l’aide de la bibliothèque StdDraw.
+  <p align="center">Programmes qui génèrent des diagrammes en barres animés à la Flourish. Les graphiques ont été réalisé à l’aide de la bibliothèque StdDraw.
     <br /><br />
     <a href="#installation"><b>INSTALLATION INSTRUCTIONS</b></a>
   </p>
