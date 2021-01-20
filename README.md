@@ -9,7 +9,7 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table des matières
-* [À propos du projet](#À propos du projet)
+* [À propos du projet](##à-propos-du-projet)
 * [Installation](#installation)
 * [Développement](#development)
   * [Prerequisites](#prerequisites)
