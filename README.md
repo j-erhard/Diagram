@@ -1,3 +1,6 @@
+[![GPL-3.0 License][license-shield]][license-url] [![Appveyor Build][appveyor-shield]][appveyor-url]
+
+
 # Diagram
 <p>Programme qui génère des diagrammes en barres animés à la Flourish. Les graphiques ont été réalisé à l’aide de la bibliothèque StdDraw.</p>
 
