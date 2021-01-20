@@ -26,7 +26,7 @@ Ce projet contient ces programmes java :
 
 Ce projet contient ces exemples :
 
-<p>| <a href"diagramme.png">diagramme.png</a> | <a href="diagramme_animé.mp4">diagramme_animé.mp4</a> | <a href="exemple.txt">Exemple.txt</a> |</p>
+<p>| <a href"diagramme.png">diagramme.png</a> | <a href="diagramme.png">Diagramme.txt</a> | <a href="diagramme_animé.mp4">Diagramme_animé.mp4</a> | <a href="Exemple.txt">Exemple.txt</a> |</p>
 
 <br />
 <p>Voici un exemple de diagramme:</p>
