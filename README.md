@@ -4,3 +4,4 @@
 <p align="center">
   <img src="diagramme.png" width="100%" alt="accessibility text">
 </p>
+<p>Pour connaitre comment utiliser ces programmes: <a href="README.txt">README.txt</a>
