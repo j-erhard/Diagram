@@ -26,6 +26,9 @@
 </p>
 
 ## Installation
-<p>
-
+<p>Télécharger le projet Diagram, puis compiler le programme java AnimatedDiagBar.java:
+  ```javac AnimatedDiagBar.java```
+  Et pour finir tester le programme avec l'exemple fourni:
+  ```java AnimatedDiagBar exemple.txt 13 nosort```
+  </p>
 <p>Pour connaitre comment utiliser ces programmes: <a href="README.txt">README.txt</a>
