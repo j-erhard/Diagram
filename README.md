@@ -28,7 +28,7 @@ Ce projet contient cette bibliothèque java:
 <br />
 <p>Voici un exemple de diagramme:</p>
 <p align="center">
-  <img src="diagramme.png" width="100%" alt="accessibility text">
+  <img src="Diagramme.png" width="100%" alt="accessibility text">
 </p>
 
 ## Installation
