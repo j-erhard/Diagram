@@ -28,7 +28,7 @@
 ## Installation
 Télécharger le projet Diagram, puis compiler le programme java AnimatedDiagBar.java:
   ```
-  <b>javac AnimatedDiagBar.java</b>
+  javac AnimatedDiagBar.java
   ```
   Et pour finir tester le programme avec l'exemple fourni:
   ```
