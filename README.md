@@ -11,11 +11,7 @@
 ## Table des matières
 * [À propos du projet](##à-propos-du-projet)
 * [Installation](#installation)
-* [Développement](#development)
-  * [Prerequisites](#prerequisites)
-  * [Setup](#setup)
-* [Contributing](#contributing)
-* [License](#license)
+* [Conditions préalables](#condition-préalable)
 
 <!-- ABOUT THE PROJECT -->
 ## À propos du projet
@@ -44,3 +40,7 @@ Télécharger le projet Diagram, puis compiler le programme java AnimatedDiagBar
   java AnimatedDiagBar exemple.txt 13 nosort
   ```
 <p>Pour comprendre l'utilité de chaques programmes et pour pouvoir créer des diagrammes animés veuillez lire la documentation: <a href="README.txt">README.txt</a>
+  
+## Condition préalable
+Pour faire fonctionner les programmes vous avez besoin d'installer java:
+<ul><li><a href="https://www.java.com/fr/download/">Java<a><li><ul>
