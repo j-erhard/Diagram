@@ -13,6 +13,7 @@
 * [À propos du projet](#à-propos-du-projet)
 * [Installation](#installation)
 * [Conditions préalables](#condition-préalable)
+* [Contact](#contact)
 
 ## Exemple
 <p>Voici un exemple d'un diagramme non animé: </p>
@@ -49,3 +50,6 @@ Télécharger le projet Diagram, puis compiler le programme java AnimatedDiagBar
 ## Condition préalable
 Pour faire fonctionner les programmes vous avez besoin d'installer java:
 <ul><li><a href="https://www.java.com/fr/download/">Java</a></li></ul>
+
+## Contact
+En cas de problème ou autre, vous pouvez me contacter à l'adresse mail suivante: julien1.erhard@gmail.com.
