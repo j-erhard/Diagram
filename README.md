@@ -7,6 +7,11 @@
   </p>
 </p>
 
+
+<p align="center">
+  <img src="Diagramme.png" width="100%" alt="accessibility text">
+</p>
+
 <!-- TABLE OF CONTENTS -->
 ## Table des matières
 * [À propos du projet](##à-propos-du-projet)
@@ -25,11 +30,8 @@ Ce projet contient ces exemples :
 Ce projet contient cette bibliothèque java:
 <p>| <a href="StdDraw.java">StdDraw.java</a> |</p>
 
-<br />
-<p>Voici un exemple de diagramme:</p>
-<p align="center">
-  <img src="Diagramme.png" width="100%" alt="accessibility text">
-</p>
+
+
 
 ## Installation
 Télécharger le projet Diagram, puis compiler le programme java AnimatedDiagBar.java:
