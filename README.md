@@ -17,7 +17,7 @@
 ## Exemple
 <p>Voici un exemple d'un diagramme non animé: </p>
 <p align="center">
-  <img src="Diagramme.png" width="100%" alt="accessibility text">
+  <img src="Diagramme.png" width="90%" alt="accessibility text">
 </p>
 
 ## À propos du projet
