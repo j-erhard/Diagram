@@ -10,11 +10,11 @@
 <!-- TABLE OF CONTENTS -->
 ## Table des matières
 * [Exemple](##exemple)
-* [À propos du projet](##à-propos-du-projet)
-* [Installation](##installation)
-* [Conditions préalables](##condition-préalable)
+* [À propos du projet](#à-propos-du-projet)
+* [Installation](#installation)
+* [Conditions préalables](#condition-préalable)
 
-##Exemple
+## Exemple
 <p>Voici un exemple d'un diagramme non animé: </p>
 <p align="center">
   <img src="Diagramme.png" width="100%" alt="accessibility text">
