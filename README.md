@@ -7,16 +7,18 @@
   </p>
 </p>
 
+<!-- TABLE OF CONTENTS -->
+## Table des matières
+* [Exemple](##exemple)
+* [À propos du projet](##à-propos-du-projet)
+* [Installation](##installation)
+* [Conditions préalables](##condition-préalable)
 
+##Exemple
+<p>Voici un exemple d'un diagramme non animé: </p>
 <p align="center">
   <img src="Diagramme.png" width="100%" alt="accessibility text">
 </p>
-
-<!-- TABLE OF CONTENTS -->
-## Table des matières
-* [À propos du projet](##à-propos-du-projet)
-* [Installation](#installation)
-* [Conditions préalables](#condition-préalable)
 
 ## À propos du projet
 <p>Programmes qui génèrent des diagrammes en barres animés à la Flourish. Les graphiques ont été réalisés à l’aide de la bibliothèque StdDraw. Ce projet a été réalisé par Julien ERHARD pour le défi S1 en 2020 en DUT informatique de Belfort</p>
