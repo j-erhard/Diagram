@@ -18,20 +18,20 @@
 ## Exemple
 <p>Voici un exemple d'un diagramme non animé: </p>
 <p align="center">
-  <img src="diagram/model/Diagramme.png" width="90%" alt="accessibility text">
+  <img src="src/diagram/model/Diagramme.png" width="90%" alt="accessibility text">
 </p>
 
 ## À propos du projet
 <p>Programmes qui génèrent des diagrammes en barres animés à la Flourish. Les graphiques ont été réalisés à l’aide de la bibliothèque StdDraw. Ce projet a été réalisé par Julien ERHARD pour le défi S1 en 2020 en DUT informatique de Belfort</p>
 
 Ce projet contient ces programmes java :
-<p>| <a href="diagram/model/DiagBar.java">DiagBar.java</a> | <a href="diagram/model/Bar.java">Bar.java</a> | <a href="AnimatedDiagBar.java">AnimatedDiagBar.java</a> | <a href="diagram/model/PreprocessData.java">PreprocessData.java</a> |</p>
+<p>| <a href="src/diagram/model/DiagBar.java">DiagBar.java</a> | <a href="src/diagram/model/Bar.java">Bar.java</a> | <a href="AnimatedDiagBar.java">AnimatedDiagBar.java</a> | <a href="src/diagram/model/PreprocessData.java">PreprocessData.java</a> |</p>
 
 Ce projet contient ces exemples :
-<p>| <a href="diagram/model/Diagramme.png">Diagramme.png</a> | <a href="diagram/model/Diagramme_animé.mp4">Diagramme_animé.mp4</a> | <a href="diagram/model/Exemple.txt">Exemple.txt</a> |</p>
+<p>| <a href="src/diagram/model/Diagramme.png">Diagramme.png</a> | <a href="src/diagram/model/Diagramme_animé.mp4">Diagramme_animé.mp4</a> | <a href="src/diagram/model/Exemple.txt">Exemple.txt</a> |</p>
 
 Ce projet contient cette bibliothèque java:
-<p>| <a href="diagram/model/StdDraw.java">StdDraw.java</a> |</p>
+<p>| <a href="src/diagram/model/StdDraw.java">StdDraw.java</a> |</p>
 
 
 
@@ -45,7 +45,7 @@ Télécharger le projet Diagram, puis compiler le programme java AnimatedDiagBar
   ```
   java AnimatedDiagBar exemple.txt 13 nosort
   ```
-<p>Pour comprendre l'utilité de chaques programmes et pour pouvoir créer des diagrammes animés veuillez lire la documentation: <a href="README.txt">README.txt</a>
+<p>Pour comprendre l'utilité de chaques programmes et pour pouvoir créer des diagrammes animés veuillez lire la documentation: <a href="src/diagram/model/README.txt">README.txt</a>
   
 ## Condition préalable
 Pour faire fonctionner les programmes vous avez besoin d'installer java:

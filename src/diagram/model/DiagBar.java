@@ -3,6 +3,8 @@ package diagram.model;
 import java.util.*;
 import java.awt.*;
 
+import diagram.model.StdDraw;
+
 public class DiagBar {
 
 private final String title;               // bar chart title

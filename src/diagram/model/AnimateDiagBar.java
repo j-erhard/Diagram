@@ -49,6 +49,12 @@ public class AnimateDiagBar {
 			// créer un diagramme avec la classe DiagBar
 			DiagBar diag = new DiagBar(title, xAxis, source);
 
+			try {
+				Thread.sleep(6000);
+			} catch (Exception e) {
+
+			}
+
 			while(sc.hasNextLine()){
 				// met la ligne du fichier dans la variable ligne
 				ligne = sc.nextLine();
@@ -92,8 +98,8 @@ public class AnimateDiagBar {
 					String[] argumentTBar = ligne.split(",");
 					caption = argumentTBar[0];
 					names.add(argumentTBar[1]);
-					values.add((int)Double.parseDouble(argumentTBar[2]));
-					categorys.add(argumentTBar[3]);
+					values.add((int)Double.parseDouble(argumentTBar[3]));
+					categorys.add(argumentTBar[2]);
 				}
 				compteurLignes ++;
 			}
